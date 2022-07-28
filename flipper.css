@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: none;
+    position: relative;
+    overflow: hidden;
+    min-height: 100vh;
+    
+
+}
+
+h1 {
+    color: black;
+    position: absolute;
+    top:5%;
+    
+}
+
+.inside {
+    margin: auto;
+    width: 80%;
+    height:70%;
+    margin-top: 200px; 
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    border-radius: 50%;
+
+}
